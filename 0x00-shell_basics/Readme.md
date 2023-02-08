@@ -1,1 +1,0 @@
-Shell basics first question
